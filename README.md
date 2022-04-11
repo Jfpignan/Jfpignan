@@ -31,3 +31,16 @@ Here are some ideas to get you started:
       </div>
 </h1>
 
+ <div align="center">
+     <img src="https://media.giphy.com/media/cDtdlPuIGC4UovtVyz/giphy.gif"  width="200px" alt=""/>
+
+---
+
+#### A PROPOS DE MOI 
+
+  Je suis un Full Stack Developer | spécialiste du Frontend au TOGO <br>
+  UI/UX DESIGNER <br>
+  Actuellement en formation pour une certification Simplon.co à Energy Generation TOGO 
+  
+  - :mailbox:Me Contacter: ![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white)
+  
